@@ -1,5 +1,5 @@
 # Pagos QR Perú
-Ahora podras pagar tus productos en woocommerce con las pasarelas de pagos mas usadas o populares de los principales bancos del Perú
+Pasarela de Pago via QR de las aplicaciones Yape, Tunki, Lukita en Perú
 
 ## Vista Backend
 
