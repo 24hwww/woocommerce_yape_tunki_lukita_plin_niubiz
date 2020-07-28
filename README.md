@@ -1,4 +1,4 @@
-# Pagos QR Perú
+# Pasarela de Pago Woocommerce: Yape, Tunki, Lukita, Plin, Niubiz
 Pasarela de Pago via QR de las aplicaciones Yape, Tunki, Lukita en Perú
 
 ## Vista Backend
