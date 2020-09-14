@@ -1,5 +1,12 @@
-# Pasarela de Pago Woocommerce: Yape, Tunki, Lukita, Plin, Niubiz
-Pasarela de Pago via QR de las aplicaciones Yape, Tunki, Lukita en Perú
+## Pasarela de Pagos QR Woocommerce
+# ✅ Yape
+# ✅ Tunki 
+# ✅ Lukita 
+# ✅ Plin 
+# ✅ Niubiz
+# ✅ VendeMas
+
+🔶 Permite que tus clientes paguen desde la web, escaneando un código QR o añadiendo un numero a sus contactos, y luego puedan efectuar el pago, subiendo la capture/screenshot de la pantalla de su movil, para la confirmación de su pago.
 
 ## Vista Backend
 
